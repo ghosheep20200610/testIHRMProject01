@@ -1,0 +1,9 @@
+2020-06-08 11:58:33,973 INFO [root] [__init__.py(<module>:4)] - Test日志会不会打印
+2020-06-08 11:59:25,548 INFO [root] [__init__.py(<module>:4)] - Test日志会不会打印
+2020-06-08 11:59:26,020 INFO [root] [test_ihrm_login.py(test01_login_success:17)] - 登陆成功的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '3be0a79d-7fee-4ad5-9c07-61b32cbef08c'}
+2020-06-08 11:59:26,115 INFO [root] [test_ihrm_login.py(test02_mobile_is_empty:24)] - 登陆成功的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '87af6c3f-7f1c-465d-8255-a05fd47ddcd0'}
+2020-06-08 11:59:26,204 INFO [root] [test_ihrm_login.py(test03_password_is_error:31)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 12:00:01,925 INFO [root] [__init__.py(<module>:4)] - Test日志会不会打印
+2020-06-08 12:00:02,335 INFO [root] [test_ihrm_login.py(test01_login_success:17)] - 登陆成功的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'd9dfb714-21b1-4d0d-9795-6cf34e9d6cfd'}
+2020-06-08 12:00:02,418 INFO [root] [test_ihrm_login.py(test02_mobile_is_empty:24)] - 登陆成功的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '43e3b6cb-a4e1-4de9-b350-421d59693f7e'}
+2020-06-08 12:00:02,520 INFO [root] [test_ihrm_login.py(test03_password_is_error:31)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
